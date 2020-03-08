@@ -18,7 +18,7 @@ KEY = "**********"
 speech_file = "**********"
 
 # URL information
-DISCOVERY_URL = "https://speech.googleapis.com/**********"
+DISCOVERY_URL = "********************"
 
 
 def get_speech_service():
