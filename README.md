@@ -10,3 +10,7 @@ Python
 Google Cloud API
 Dialogflow
 AWS
+
+# Flow
+
+input sound -> Speech to Text API(GCP) -> converted text -> Dialogflow -> output text 
